@@ -1,10 +1,4 @@
 # company-research-Assistant
-Great — **here is the fully polished, corporate-grade, professional README.md** (clean, crisp, industry-standard).
-
----
-
-# 📄 **README.md**
-
 # **Company Research Assistant — Account Plan Generator**
 
 A production-grade, multi-agent conversational AI system designed to help users research companies and generate structured **Account Plans** through natural dialogue.
