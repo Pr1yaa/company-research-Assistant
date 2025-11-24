@@ -149,20 +149,3 @@ The agent is tested across multiple personas:
 
 ---
 
-## 🎥 **Demo Video Requirements (Assignment-Compliant)**
-
-The demo video includes:
-
-* Real-time screen recording of UI
-* Voiceover explaining:
-
-  * Agent flow
-  * Multi-agent architecture
-  * Persona-based interactions
-* No slides or external collateral
-* Duration: **≤ 10 minutes**
-* Showcase of account plan generation + selective section updates
-
----
-
-
